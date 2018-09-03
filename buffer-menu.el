@@ -1,10 +1,10 @@
 ;;; A port of the Xemacs buffers menu-bar feature that works with Emacs 26.
 
 ;;; REPOSITORY:
-;;; https://bitbucket.org/lawlist/buffer-menu/src/master/
+;;; https://github.com/lawlist/buffer-menu
 
 ;;; CLONE:
-;;; git clone https://lawlist@bitbucket.org/lawlist/buffer-menu.git
+;;; git clone https://github.com/lawlist/buffer-menu.git
 
 ;;; QUESTION THAT INSPIRED THIS LIBRARY:
 ;;; https://emacs.stackexchange.com/q/44243/2287

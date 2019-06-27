@@ -25,7 +25,7 @@ the menu to help the user see how many buffers of that menu/submenu exist
 
 F.A.Q. (Frequently Asked Questions):
 
-**Q**:  How is this different from what `C-mouse-1` pops up?
+**Q**:  How is this different from what `C-mouse-1` (aka `mouse-buffer-menu`) pops up?
 
 **A**:  As to the built-in function `mouse-buffer-menu`, and a default setting of 4 for the variable `mouse-buffer-menu-mode-mult`, there is no obvious grouping of buffers by major-mode.  Setting a value of 1 or 2 for the variable `mouse-buffer-menu-mode-mult` causes buffers to be grouped by major-mode and the buffers are available in submenus of the major-modes.
 
